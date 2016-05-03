@@ -7,7 +7,7 @@
 // @exclude api.twitch.tv/*
 
 // @version 2.0
-// @updateURL http://graulund.github.io/secretdungeonemotes/dungeonemotes.user.js
+// @updateURL http:/ahiddenwaffle.github.io/secretdungeonemotes/dungeonemotes.user.js
 // @grant       none
 // @run-at      document-end
 // ==/UserScript==
@@ -16,7 +16,7 @@ function sdeLoad()
 {
 	var script = document.createElement("script");
 	script.type = "text/javascript";
-	script.src = "//graulund.github.io/secretdungeonemotes/sde.js";
+	script.src = "//ahiddenwaffle.github.io/secretdungeonemotes/sde.js";
 	document.getElementsByTagName("head")[0].appendChild(script);
 }
 
