@@ -314,7 +314,7 @@ var sde = (function(){
 					emoticons: sdeFfzList,
 					icon: null,
 					id: sdeFfzName,
-					title: "Secret Dungeon Emotes",
+					title: "TPP Memotes",
 					users: []
 				}
 
