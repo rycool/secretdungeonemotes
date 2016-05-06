@@ -251,9 +251,9 @@ var sde = (function(){
 		var convertEmoticonListToFFZ = function(){
 
 			var owner = {
-				display_name: "electricnet",
+				display_name: "Unknown",
 				id: 999999,
-				name: "electricnet"
+				name: "Unknown"
 			}
 
 			var list = []
